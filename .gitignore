@@ -1,3 +1,7 @@
 # eclipse
 workspace/Servers
 workspace/.metadata
+workspace/*/.classpath
+workspace/*/.project
+workspace/*/.settings
+workspace/*/bin
